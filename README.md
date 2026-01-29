@@ -1,4 +1,4 @@
-🛒 #**Smart Trolley and Billing System**
+🛒 #Smart Trolley and Billing System
 
 An IoT-based smart shopping trolley system that automates supermarket billing using RFID technology, reducing checkout time and manual effort.
 
