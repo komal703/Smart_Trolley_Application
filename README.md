@@ -26,7 +26,8 @@ This project was developed as a **Bachelor of Engineering (Computer Engineering)
 	•	Improved shopping efficiency  
 🏗️ System Architecture
 Flow:
-	•	RFID Tag → RFID Reader → NodeMCU (ESP8266) → Server / Database →  Customer Display & Admin Billing Dashboard
+	
+		RFID Tag → RFID Reader → NodeMCU (ESP8266) → Server / Database →  Customer Display & Admin Billing Dashboard
 
 🧰 Tech Stack
 
