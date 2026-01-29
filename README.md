@@ -1,4 +1,4 @@
-🛒 Smart Trolley and Billing System
+🛒 #**Smart Trolley and Billing System**
 
 An IoT-based smart shopping trolley system that automates supermarket billing using RFID technology, reducing checkout time and manual effort.
 
@@ -26,12 +26,12 @@ This project was developed as a **Bachelor of Engineering (Computer Engineering)
 	•	Improved shopping efficiency  
 🏗️ System Architecture
 Flow:
-	•	RFID Tag → RFID Reader → NodeMCU (ESP8266) → Server / Database →  
-	•	Customer Display & Admin Billing Dashboard
+	•	RFID Tag → RFID Reader → NodeMCU (ESP8266) → Server / Database →  Customer Display & Admin Billing Dashboard
 
 🧰 Tech Stack
 
  🔧 Hardware
+ 
 	•	NodeMCU ESP8266  
 	•	RFID Reader (RC522 / EM-18)  
 	•	RFID Tags  
@@ -39,10 +39,12 @@ Flow:
 	•	Power Supply  
 
 💻 Software
+
 	•	Arduino IDE (C/C++)  
 	•	Node.js  
 	•	Web-based Admin Dashboard  
 📚 Concepts Used
+
 	•	Internet of Things (IoT)  
 	•	RFID Technology  
 	•	Client–Server Architecture  
@@ -56,11 +58,13 @@ Flow:
 5. Final bill is generated instantly at checkout
    
  📊 Results
+ 
 	•	Significant reduction in checkout waiting time  
 	•	Faster and error-free billing  
 	•	Improved customer convenience  
 	•	Efficient real-time billing system  
 🔮 Future Scope
+
 	•	Mobile application integration  
 	•	Auto-follow smart trolley  
 	•	Product recommendation system  
@@ -68,17 +72,20 @@ Flow:
 	•	Theft detection enhancement System
 
 🧰 Tech Stack
+
 	Hardware: RFID Reader (EM-18), NodeMCU ESP8266, LCD
 	Software: Arduino IDE (C/C++), Node.js
 	Concepts: IoT, RFID, Client–Server Architecture
 
 	
 🛠️ Hardware Components
+
 	•	NodeMCU ESP8266
 	•	EM-18 RFID Reader
 	•	RFID Tags
 	•	LCD Display
 🔮 Future Scope
+
 	•	Mobile app integration
 	•	Auto-follow trolley
 	•	Smart product recommendations
